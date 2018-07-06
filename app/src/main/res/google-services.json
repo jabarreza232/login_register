@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "773502821575",
+    "firebase_url": "https://login-20134.firebaseio.com",
+    "project_id": "login-20134",
+    "storage_bucket": "login-20134.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:773502821575:android:3f58d8420a9294f5",
+        "android_client_info": {
+          "package_name": "jabar.evolutions.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "773502821575-mcneoa54qu12bhnchjmp2o5a20rr1vkn.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "773502821575-mcneoa54qu12bhnchjmp2o5a20rr1vkn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANChd5IIv_HC9AMKwBppinWH1c0eW3yN8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
